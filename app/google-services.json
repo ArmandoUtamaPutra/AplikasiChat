@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564578532420",
+    "firebase_url": "https://aplikasichat-5efe4.firebaseio.com",
+    "project_id": "aplikasichat-5efe4",
+    "storage_bucket": "aplikasichat-5efe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564578532420:android:5917962d38adb9cd",
+        "android_client_info": {
+          "package_name": "com.android.aplikasichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564578532420-m2htuiqh6kmsi12ah4tk6j3qeikqmqs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.aplikasichat",
+            "certificate_hash": "a2e432d3a85ac40e49800f17e8ead9d7d5ed51c6"
+          }
+        },
+        {
+          "client_id": "564578532420-kb08ces96315io1aecf76dtmem8off6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARnJLCA0WONnXiVpIjK8vSZyijGWgtkIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564578532420-kb08ces96315io1aecf76dtmem8off6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
